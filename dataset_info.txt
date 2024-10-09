@@ -20,8 +20,6 @@
 
 6. Number of Instances: 41188 
 
-
-
    Input variables:
    # bank client data:
    1 - age (numeric)
